@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mikehaertl/phpwkhtmltopdf": "^2.5",
+        "phpunit/phpunit": "^9.5",
+        "knplabs/knp-snappy": "^1.3",
+        "endroid/qr-code": "4.3",
+        "endroid/qr-code-bundle": "4.0",
+        "aws/aws-sdk-php": "^3.200",
+        "fightbulc/moment": "^1.33"
+    }
+}
